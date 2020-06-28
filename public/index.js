@@ -24810,4 +24810,4 @@ System.register(
   },
 );
 
-await __instantiateAsync("file:///Users/rakesh2409/Documents/denoApp/server");
+await __instantiateAsync("../denoApp/server");
